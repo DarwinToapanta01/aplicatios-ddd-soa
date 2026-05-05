@@ -276,7 +276,4 @@ GET http://localhost:3000/health
 
 ---
 
-## 📄 Licencia
-
-Proyecto académico — Arquitectura de Software — Octavo Nivel  
 Universidad de las Fuerzas Armadas ESPE — Período 202650
